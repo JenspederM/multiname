@@ -144,7 +144,7 @@ initialize_multinames_object <- function(.data) {
 #' - get_multinames() and
 #' - set_multinames()
 #'
-#' @param .data An initialized data.frame, tibble, or data.table
+#' @param .data An data.frame, tibble, or data.table
 #' @export
 #' @examples
 #' df <- initialize_multinames(data.frame(a=1:10, b=11:20))
