@@ -1,6 +1,4 @@
-#' Initialize a Multinames Object
-#'
-#' This serves as the backend for all other functions
+#' Multiname Backend
 multiname <- R6::R6Class(
   "multiname",
   portable = FALSE,
