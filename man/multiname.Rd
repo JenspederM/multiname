@@ -2,9 +2,11 @@
 % Please edit documentation in R/multiname.R
 \name{multiname}
 \alias{multiname}
-\title{Initialize a Multinames Object}
+\title{Multiname Backend}
 \description{
-This serves as the backend for all other functions
+Multiname Backend
+
+Multiname Backend
 }
 \section{Methods}{
 \subsection{Public methods}{
