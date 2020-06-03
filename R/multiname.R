@@ -137,10 +137,10 @@ initialize_multinames_object <- function(.data) {
 #'
 #' This function doesn't do much by itself, but allows you to use the all of
 #' the corresponding S3 methods:
-#' - add_multinames(),
-#' - replace_multinames(),
-#' - get_multinames() and
-#' - set_multinames()
+#' * add_multinames(),
+#' * replace_multinames(),
+#' * get_multinames() and
+#' * set_multinames()
 #'
 #' @param .data An data.frame, tibble, or data.table
 #' @export
