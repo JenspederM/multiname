@@ -1,0 +1,11 @@
+Package: Multiname
+Type: Package
+Title: Multinamed data.frame Objects  
+Version: 0.1.0
+Author: Jens Peder Meldgaard
+Maintainer: Jens Peder Meldgaard <jenspederm@gmail.com>
+Description: Allows a data.frame object (also tibble, and data.table) to have more than one set of column names.
+    This is accomplished by  mapping named vectors to existing or already established multinames. 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
