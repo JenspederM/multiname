@@ -1,4 +1,4 @@
-Package: Multiname
+Package: multiname
 Type: Package
 Title: Multinamed data.frame Objects  
 Version: 0.1.0

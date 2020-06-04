@@ -15,11 +15,8 @@ which is prefered if you are using multiple names for just this object.
 }
 \details{
 This function doesn't do much by itself, but allows you to use the all of
-the corresponding S3 methods:
-* add_multinames(),
-* replace_multinames(),
-* get_multinames() and
-* set_multinames()
+the corresponding S3 methods: add_multinames(), replace_multinames(), get_multinames(),
+and set_multinames()
 }
 \examples{
 df <- initialize_multinames(data.frame(a=1:10, b=11:20))
